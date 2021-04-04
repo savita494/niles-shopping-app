@@ -1,5 +1,7 @@
 {
+  
   "name": "niles-shopping",
+  "homepage": "https://savita494.github.io/niles-shopping-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
